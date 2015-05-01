@@ -1,24 +1,29 @@
 html{
     height: 100%;
+    width: 100%;
 }
 
 body{
     height: 100%;
+    width:  100%;
 }
 
+img{
+    width: 100%;
+}
 #container{
     width: 67%;
     height:67%;
 }
 
 .cards{
-    width: 10%;
-    height: 10%;
+    width: 100px;
+    height: 100px;
     margin: 1%;
     float: left;
 }
 
-#card7, #card13, #card19{
+#card7, #card13, #card19, #card25, #card31{
     clear: left;
 }
 
