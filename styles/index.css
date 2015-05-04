@@ -33,11 +33,3 @@ h1{
 #card7, #card13, #card19, #card25, #card31{
     clear: left;
 }
-
-.front{
-    background-color: blue;
-}
-
-.back{
-    background-color: red;
-}
